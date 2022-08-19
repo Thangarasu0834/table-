@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name":"user1",
+        "dob":"2012-04-23",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 2,
+        "name":"user2",
+        "dob":"1996-05-12",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 3,
+        "name":"user3",
+        "dob":"1999-12-20",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 4,
+        "name":"user4",
+        "dob":"1999-05-05",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 5,
+        "name":"user5",
+        "dob":"1981-12-02",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 6,
+        "name":"user6",
+        "dob":"1989-12-02",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 7,
+        "name":"user7",
+        "dob":"1996-03-12",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 8,
+        "name":"user8",
+        "dob":"1999-12-24",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 9,
+        "name":"user9",
+        "dob":"1997-05-26",
+        "city":"chennai",
+        "address":"Chennai"
+    },
+    {
+        "id": 10,
+        "name":"user10",
+        "dob":"1998-04-28",
+        "city":"chennai",
+        "address":"Chennai"
+    }
+    
+]
